@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - Frameworks: Django
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anyaga&theme=tokyonight)
+
+![Anya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anyaga&show_icons=true&theme=radical)
