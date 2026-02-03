@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - Languages: Python, C, Java, Javascript
 - Frameworks: Django
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anyaga&theme=tokyonight)
